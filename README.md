@@ -1,3 +1,5 @@
+![LUSID_by_Finbourne](./resources/Finbourne_Logo_Teal.svg)
+
 # terraform-render-bootkube
 
 `terraform-render-bootkube` is a Terraform module that renders [kubernetes-incubator/bootkube](https://github.com/kubernetes-incubator/bootkube) assets for bootstrapping a Kubernetes cluster.
